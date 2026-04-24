@@ -1,7 +1,7 @@
 {
   "id": "peaceAndQuiet",
   "name": "Peace & Quiet",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "ernestowg",
   "description": "Light and dark theme with pastel accents and purple hues",
   "dark": {
@@ -12,7 +12,7 @@
     "background": "#09070d",
     "backgroundText": "#f0f0f0",
     "surfaceContainer": "#09070d",
-    "surfaceContainerHigh": "#221f26",
+    "surfaceContainerHigh": "#342943",
     "surfaceContainerHighest": "#17141a",
     "error": "#f38ba8",
     "warning": "#fab387"
